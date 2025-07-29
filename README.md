@@ -24,7 +24,7 @@ Unduh dua file berikut:
 
 ## 📂 Langkah 3: Tambahkan ke Menu "Send To"
 
-1. Tekan `Win + R`, ketik:
+1. Tekan `Win + R`, ketik: shell:sendto
 
 2. Akan muncul folder "SendTo"
 3. Pindahkan file `Convert HEIC to JPG.bat` ke folder tersebut
