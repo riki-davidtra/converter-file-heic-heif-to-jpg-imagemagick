@@ -9,14 +9,14 @@ Skrip ini memudahkan kamu mengonversi file `.HEIC` ke `.JPG` menggunakan ImageMa
 Unduh dua file berikut:
 
 - `Convert HEIC to JPG.bat`
-- Installer: `ImageMagick-7.1.2-0-Q16-HDRI-x64-dll.exe`  
+- Installer: `ImageMagick-xxx.exe`  
   🔗 [Download ImageMagick](https://imagemagick.org/script/download.php)
 
 ---
 
 ## ⚙️ Langkah 2: Instal ImageMagick
 
-1. Jalankan file installer `ImageMagick...exe`
+1. Jalankan file installer `ImageMagick-xxx.exe`
 2. **Checklist "Add to PATH"** saat proses instalasi
 3. Pastikan opsi **"Install legacy utilities (convert)"** juga dicentang
 
