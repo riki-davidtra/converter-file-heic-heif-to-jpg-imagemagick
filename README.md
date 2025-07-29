@@ -1,6 +1,6 @@
-# 🖼️ Convert HEIC to JPG (Windows)
+# 🖼️ Convert HEIC HEIF to JPG (Windows)
 
-Skrip ini memudahkan kamu mengonversi file `.HEIC` ke `.JPG` menggunakan ImageMagick dan file batch otomatis.
+Skrip ini memudahkan kamu mengonversi file `.HEIC .HEIF` ke `.JPG` menggunakan ImageMagick dan file batch otomatis.
 
 ---
 
@@ -8,7 +8,7 @@ Skrip ini memudahkan kamu mengonversi file `.HEIC` ke `.JPG` menggunakan ImageMa
 
 Unduh dua file berikut:
 
-- `Convert HEIC to JPG.bat`
+- `Convert HEIC HEIF to JPG.bat`
 - Installer: `ImageMagick-xxx.exe`  
   🔗 [Download ImageMagick](https://imagemagick.org/script/download.php)
 
@@ -26,15 +26,15 @@ Unduh dua file berikut:
 
 1. Tekan `Win + R`, ketik: shell:sendto
 2. Akan muncul folder "SendTo"
-3. Pindahkan file `Convert HEIC to JPG.bat` ke folder tersebut
+3. Pindahkan file `Convert HEIC HEIF to JPG.bat` ke folder tersebut
 
 ---
 
 ## ✅ Cara Menggunakan
 
 1. Buka File Explorer
-2. Pilih **beberapa file `.HEIC`** atau **sebuah folder** yang berisi file `.HEIC`
-3. Klik kanan > **Send to > Convert HEIC to JPG**
+2. Pilih **beberapa file `.HEIC .HEIF`** atau **sebuah folder** yang berisi file `.HEIC .HEIF`
+3. Klik kanan > **Send to > Convert HEIC HEIF to JPG**
 4. File hasil `.JPG` akan muncul di lokasi yang sama
 
 ---
@@ -52,11 +52,11 @@ Jika proses konversi gagal, atau tidak muncul file `.JPG`, coba beberapa hal ber
 
 ### 🔐 2. Pastikan Folder Punya Izin Full Control
 
-Kadang proses gagal karena skrip tidak bisa menulis ke folder. Kamu harus memastikan folder tempat file `.HEIC` berada memberikan **Full Control** ke akun kamu.
+Kadang proses gagal karena skrip tidak bisa menulis ke folder. Kamu harus memastikan folder tempat file `.HEIC .HEIF` berada memberikan **Full Control** ke akun kamu.
 
 #### Langkah Memberi Full Control:
 
-1. Klik kanan pada folder tempat file `.HEIC`, pilih **Properties**
+1. Klik kanan pada folder tempat file `.HEIC .HEIF`, pilih **Properties**
 2. Masuk ke tab **Security**
 3. Klik tombol **Edit**
 4. Pilih akun kamu (contoh: `User` atau `Administrator`)
