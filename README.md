@@ -37,7 +37,42 @@ Unduh dua file berikut:
 3. Klik kanan > **Send to > Convert HEIC to JPG**
 4. File hasil `.JPG` akan muncul di lokasi yang sama
 
---- 
+---
+
+## ⚠️ Jika Terjadi Error / Tidak Berhasil
+
+Jika proses konversi gagal, atau tidak muncul file `.JPG`, coba beberapa hal berikut:
+
+### 🔧 1. Cek Instalasi ImageMagick
+
+- Pastikan ImageMagick terinstal dengan benar
+- Waktu instalasi, **centang**:
+  - "Add to PATH"
+  - "Install legacy utilities (convert)"
+
+### 🔐 2. Pastikan Folder Punya Izin Full Control
+
+Kadang proses gagal karena skrip tidak bisa menulis ke folder. Kamu harus memastikan folder tempat file `.HEIC` berada memberikan **Full Control** ke akun kamu.
+
+#### Langkah Memberi Full Control:
+
+1. Klik kanan pada folder tempat file `.HEIC`, pilih **Properties**
+2. Masuk ke tab **Security**
+3. Klik tombol **Edit**
+4. Pilih akun kamu (contoh: `User` atau `Administrator`)
+5. Centang kotak **Full control** di bagian Allow
+6. Klik **Apply**, lalu klik **OK**
+
+> 💡 Tips: Jika kamu tidak melihat user kamu di daftar, klik **Add** dan masukkan nama akun Windows kamu.
+
+### 🛡️ 3. Jalankan Sebagai Administrator
+
+Jika tetap tidak berhasil, coba:
+
+- Klik kanan pada file `.bat`
+- Pilih **Run as administrator**
+
+---
 
 ## 📃 Lisensi
 
