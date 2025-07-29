@@ -34,9 +34,8 @@ Unduh dua file berikut:
 ## ✅ Cara Menggunakan
 
 1. Buka folder berisi file `.HEIC`
-2. Pilih beberapa file atau seluruh file `.HEIC`
-3. Klik kanan > **Send to > Convert HEIC to JPG**
-4. File `.JPG` akan dibuat di folder yang sama
+2. Pilih beberapa file atau folder yang berisi file `.HEIC`
+3. Klik kanan > **Send to > Convert HEIC to JPG** 
 
 --- 
 
